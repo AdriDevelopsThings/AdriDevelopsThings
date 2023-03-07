@@ -6,4 +6,4 @@ Here are some of my developing ideas that I'd like to share. However, I kindly a
 Automatically fetch all checkins on traewelling in trams and busses, get a route on brouter (there is something like an api) and write these points in a gpx file. Maybe a database (sqlite or something like that) that saves all lines that are already translated would be nice.
 
 ## Stellwerksim todo list
-There is a api to stellwerksim so it would be possible to get information from stellwerksim (like information of trains or events like a train joining the interlocking): Events like a train is joining the interlocking or a train would like to depart are written on a todo list (terminal based) and you can tick them off.
+There is an api to stellwerksim so it would be possible to get information from stellwerksim (like information of trains or events like a train joining the interlocking): Events like a train is joining the interlocking or a train would like to depart are written on a todo list (terminal based) and you can tick them off.
