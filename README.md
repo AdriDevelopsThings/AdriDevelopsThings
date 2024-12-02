@@ -4,7 +4,7 @@ _(also known as AdriDoesThings)_
 
 A backend developer interested in trains currently studying computer engineering.
 
-My coolest projects are:
+My (in my opinion) coolest projects are:
 - [regenbogen-ice](https://regenbogen-ice.de): Find the german rainbow train.
 - [strecken-info-bot](https://github.com/AdriDevelopsThings/strecken-info-bot): A telegram and mastodon bot to receive updates about current disruptions in the german railway network.
 - [iceportal-rich-presence](https://github.com/AdriDevelopsThings/iceportal-rich-presence): Get data from the ice portal of an ice and display the information on discord.
